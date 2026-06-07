@@ -4,7 +4,9 @@ we can play chess game with this program
 Project Proposal: 가상 물체와 상호작용하는 AR CHESSBOARD
 
 프로젝트명
+
 가상 물체와 상호작용하는 AR CHESSBOARD
+
 성과 목표
 1. 실제 체스보드 패턴을 카메라로 인식하여 그 위에 체스 말들을 렌더링한다.
 2. 맨손으로 가상의 체스 말을 잡고 이동시켜서 체스를 둘 수 있도록 각 말에 알맞은 체스 로직을 구현한다.
